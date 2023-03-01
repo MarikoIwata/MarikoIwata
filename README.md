@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Mariko
+### Hi there 👋 I'm Mariko, a passionate Software Engineer who would love to show you my pinned projects. Please feel free to reach out.
 
 <!--
 **MarikoIwata/MarikoIwata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
