@@ -1,5 +1,12 @@
-### Hi there 👋 I'm Mariko, a passionate Software Engineer who would love to show you my pinned projects. Please feel free to reach out.
+Hi 👋🏻  I’m Mariko, a software engineer and healthcare professional —
 
+☀️ 6+ years of experience within healthcare 🏥 and technology 💻space. I’m dedicated to improving healthcare outcomes and building full-stack applications using JavaScript, TypeScript, React, Node and Express.
+
+👩🏻‍💻Co-created an open source developer tool called SafeQL 🔒 that parses GraphQL schema to detect security vulnerabilities. I recently gave a tech talk 🎤 on TypeScript that was sponsored by Jeeny and Bracelet.
+
+🤝Network Director at a healthcare technology company where I develop relationships to improve coordinated care across the healthcare continuum. I draw on my management consulting past and love for data to address the many gaps in our healthcare system.
+
+🌿Staying curious and excited to grow professionally and personally, which can look like contributing to Open Source projects that have a mission and goal that resonate with me or perfecting my Mega Pilates game. 
 <!--
 **MarikoIwata/MarikoIwata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
