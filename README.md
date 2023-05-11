@@ -1,6 +1,6 @@
 Hi 👋🏻  I’m Mariko, a software engineer and healthcare professional —
 
-☀️ 6+ years of experience within healthcare 🏥 and technology 💻space. I’m dedicated to improving healthcare outcomes and building full-stack applications using JavaScript, TypeScript, React, Node and Express.
+☀️ Experience within healthcare 🏥 and technology 💻space. I’m dedicated to improving healthcare outcomes and building full-stack applications using JavaScript, TypeScript, React, Node and Express.
 
 👩🏻‍💻Co-created an open source developer tool called SafeQL 🔒 that parses GraphQL schema to detect security vulnerabilities. I recently gave a tech talk 🎤 on TypeScript that was sponsored by Jeeny and Bracelet.
 
